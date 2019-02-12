@@ -1,4 +1,4 @@
-#Code Challenge
+# Code Challenge
 
 The goal of this code challenge is to create a few functions that will shuffle/deal cards and calculate which player has the better standard 5-card poker hand.
 
@@ -8,14 +8,14 @@ When developing, think about the following:
 - Which state items should belong to the component, and which should be in the redux store
 - How do you write your code such that it is unit testable
 
-##Bonus Points
+## Bonus Points
 
 - Implement a shuffling algorithm for dealing the cards
 - Stylize the cards 
 - Implement some visual for shuffling
 - Add a betting component
 
-#Project Information
+# Project Information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
