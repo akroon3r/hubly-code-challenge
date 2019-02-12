@@ -1,11 +1,11 @@
 # Code Challenge
 
-The goal of this code challenge is to create a few functions that will shuffle/deal cards and calculate which player has the better standard 5-card poker hand.
+The goal of this code challenge is to refactor the application into something sensible and write a few methods that will shuffle/deal cards and calculate which player has the better standard 5-card poker hand.
 
 When developing, think about the following:
 
-- What functions belong to the component, and which should be an redux action
-- Which state items should belong to the component, and which should be in the redux store
+- Which functions belong to the component, and which should be an redux action
+- Which state items should belong to the component's state, and which should be in the redux store
 - How do you write your code such that it is unit testable
 
 ## Bonus Points
@@ -14,6 +14,7 @@ When developing, think about the following:
 - Stylize the cards 
 - Implement some visual for shuffling
 - Add a betting component
+- Anything else that emphasizes your specific skill set
 
 # Project Information
 
